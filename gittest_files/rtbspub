@@ -1,0 +1,3 @@
+window.rtbsBidA = (typeof window.rtbsBidA  === 'object' ) ? window.rtbsBidA : {};
+window.rtbsBidA["817081146"] = {no_bid: true, variant: 0, tp: "http://qsearch-a.akamaihd.net/log?logid=kfk&evtid=rtbstl&url=http%3A%2F%2Fcareer.guru99.com%2Ftop-40-interview-questions-on-git%2F&domain=career.guru99.com&size=300x600&ext_user_id=2179225730142865576&iid=1&auction_id=cb14a668a3e34cbfa6b2c0b73813a7d3&ip=209.2.113.38&crid=817081146&b4b=4.83&b9b=0.0&rtbW=0&app_dis=0&dma=511&cc=US&rc=VA&bname=&bid_type=-1&bmlevel=0<cm_win_macro>", bl: [], size: "300x600"};
+;
